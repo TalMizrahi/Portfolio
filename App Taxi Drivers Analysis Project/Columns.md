@@ -1,9 +1,9 @@
 | Column                     | Description                                                                                                                        |
 |----------------------------|------------------------------------------------------------------------------------------------------------------------------------|
 | Start   Date               | RecodeType   start date                                                                                                            |
-| RecordType                 | 3 Types of recodes: yesturday (contains one day), 
-|                            | full week (contains data for 2 days) 
-|                            | full last week (contain data for 7 days)
+| RecordType                 | 3 Types of recodes: yesturday (contains one day),
+|                            | full week (contains data for 2 days), 
+|                            | full last week (contain data for 7 days).
 | ProviderID                 | ID of the drivers                                                                                                                  |
 | Onboarding   Date          | Regestration date time                                                                                                             |
 | Days   Active              | Days since registration                                                                                                            |
