@@ -1,5 +1,5 @@
-# Thank you for visiting my portfolio! 
-**Importand,** I just have started to upload some of my analysis projects here. 
+# Thank you for visiting my portfolio!
+I just have started to upload some of my analysis projects here. 
 Most of them aren't fully prepared for displaying here or has the full information. However, before the 15th of November will be more projects and each of them with all the data, information and explanations.
 
 # General details about the projects:
