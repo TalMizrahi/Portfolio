@@ -1,4 +1,4 @@
-# Details about the project
+# Details about the project - please read
 
 In this project, I analyzed and presented data analysis of the Taxi Drivers activity in App.
 
@@ -12,7 +12,7 @@ The drivers should be online or busy for at least 30 hours a week to receive a w
 
 Main goals of the analysis are:
 
-Describe your conclusions derived from the data
+Describe your conclusions derived from the data.
 
 Are there any particular drivers that need special attention? why?
 
